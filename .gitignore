@@ -1,0 +1,39 @@
+### Common ###
+.DS_Store
+target/
+.history
+.cache
+logs/
+
+### Node ###
+node_modules/
+
+.gradle
+.gradle/
+
+### Intellij ###
+.idea
+.idea/
+*.iml
+/out/
+
+# Gradle:
+.gradle
+.gradle/
+
+### Eclipse ###
+
+.metadata
+bin/
+tmp/
+.settings/
+.project
+
+### Java/Scala ###
+*.class
+*.log
+
+### Sbt ###
+.lib/
+dist/*
+project/plugins/project/
